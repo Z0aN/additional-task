@@ -1,0 +1,8 @@
+[core]
+	repositoryformatversion = 0
+	filemode = false
+	bare = true
+	symlinks = false
+	ignorecase = true
+[remote "origin"]
+	url = E:/GloAcademy/Projects/GitProjects/Projects/add-task/additional-task-1/git_tutorial/work/hello
